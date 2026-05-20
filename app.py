@@ -4,7 +4,7 @@ import streamlit as st
 # =============================
 # CONFIG
 # =============================
-API_BASE = "https://movie-rec-466x.onrender.com"
+API_BASE = "https://movie-rec-466x.onrender.com" or "https://movies-rec-wyfb.onrender.com/docs"
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 
 st.set_page_config(
